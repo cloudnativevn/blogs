@@ -1,0 +1,42 @@
+title: Cloud Native Vietnam
+description: >-
+  Community blog for Cloud Native Vietnam — sharing knowledge about
+  Kubernetes, cloud native technologies, and the Vietnamese tech ecosystem.
+url: "https://cloudnativevn.github.io"
+baseurl: "/blogs"
+
+permalink: /:title/
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /:title/
+    sort_by: date
+
+# Author defaults
+author:
+  name: Cloud Native Vietnam
+  email: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "post"
+      author: "Cloud Native Vietnam"
