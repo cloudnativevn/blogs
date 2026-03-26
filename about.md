@@ -22,4 +22,4 @@ We are a community of cloud native enthusiasts in Vietnam, passionate about Kube
 
 ### Contact
 
-Find us on [GitHub](https://github.com/cloud-native-vietnam).
+Find us on [GitHub](https://github.com/cloudnativevn).

@@ -1,6 +1,6 @@
 # Cloud Native Vietnam
 
-Community blog for [Cloud Native Vietnam](https://github.com/cloud-native-vietnam) — sharing knowledge about Kubernetes, cloud native technologies, and the Vietnamese tech ecosystem.
+Community blog for [Cloud Native Vietnam](https://github.com/cloudnativevn) — sharing knowledge about Kubernetes, cloud native technologies, and the Vietnamese tech ecosystem.
 
 ## Local Development
 

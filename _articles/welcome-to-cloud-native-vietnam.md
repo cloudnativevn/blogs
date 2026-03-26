@@ -21,7 +21,7 @@ We'll be covering topics such as:
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to write a blog post, feel free to open a pull request on our [GitHub repository](https://github.com/cloud-native-vietnam/blogs).
+We welcome contributions from the community! If you'd like to write a blog post, feel free to open a pull request on our [GitHub repository](https://github.com/cloudnativevn/blogs).
 
 ### How to Write a Post
 
