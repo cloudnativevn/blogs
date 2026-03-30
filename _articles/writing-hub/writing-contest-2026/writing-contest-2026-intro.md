@@ -17,7 +17,7 @@ The goal is simple: publish real engineering stories that others can reuse in pr
 - Event window: 14/03/2026 - 30/04/2026 (online)
 - Final submission deadline: 30/04/2026
 - Recommended article length: 1,000-1,500 words
-- Language: English
+- Language: English / Vietnamese
 
 ## Who Should Join
 
