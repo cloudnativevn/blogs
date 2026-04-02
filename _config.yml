@@ -2,7 +2,7 @@ title: Cloud Native Vietnam
 description: >-
   Community blog for Cloud Native Vietnam — sharing knowledge about
   Kubernetes, cloud native technologies, and the Vietnamese tech ecosystem.
-url: "https://cloudnativevn.github.io"
+url: "https://cloudnativevn.org"
 baseurl: "/blogs"
 
 permalink: /:title/
