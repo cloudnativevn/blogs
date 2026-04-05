@@ -62,6 +62,8 @@ Then open a Pull Request with title format:
 
 You can submit more than one article if each post has unique practical value.
 
+**Note**: All posts submitted to the contest must include the tag `writing-contest-2026-term1`.
+
 ## Closing
 
 This sample post exists to show the expected structure and event context.
