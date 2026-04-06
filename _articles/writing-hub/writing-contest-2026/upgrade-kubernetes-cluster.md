@@ -3,7 +3,7 @@ layout: post
 title: "Kubernetes Cluster Upgrade Tips & Hands-on Guide for Air-Gapped Environments with Kubespray"
 date: 2026-04-03
 author: "Toi Pham Van"
-tags: [kubernetes, kubespray, air-gapped, tutorial]
+tags: [writing-contest-2026-term1, kubernetes, kubespray, air-gapped, tutorial]
 excerpt: "Upgrading Kubernetes in an air-gapped environment is a different beast from a standard upgrade. This guide covers the gotchas, preparation steps, and a complete hands-on walkthrough of upgrading from v1.26.11 to v1.27.7 with Kubespray — so you can do it safely, even without internet access."
 ---
 
